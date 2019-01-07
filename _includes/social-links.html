@@ -1,0 +1,94 @@
+<div class="social-links">
+
+    {% if site.gpg %}
+        <a class="link" data-title="pgp.key-server.io/search/{{ site.gpg }}" href="https://pgp.key-server.io/search/{{ site.gpg }}" target="_blank">
+            <svg class="icon icon-gpg"><use xlink:href="#icon-gpg"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.tox %}
+        <a class="link" data-title="toxme.io/u/{{ site.tox }}" href="https://toxme.io/u/{{ site.tox }}" target="_blank">
+            <svg class="icon icon-tox"><use xlink:href="#icon-tox"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.email %}
+        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}" target="_blank">
+            <svg class="icon icon-email"><use xlink:href="#icon-email"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.github %}
+        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank">
+            <svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.gitlab %}
+        <a class="link" data-title="gitlab.com/{{ site.gitlab }}" href="https://gitlab.com/{{ site.gitlab }}" target="_blank">
+            <svg class="icon icon-gitlab"><use xlink:href="#icon-gitlab"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.keybase %}
+        <a class="link" data-title="keybase.io/{{ site.keybase }}" href="https://keybase.io/{{ site.keybase }}" target="_blank">
+            <svg class="icon icon-keybase"><use xlink:href="#icon-keybase"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.mastodon %}
+        <a class="link" data-title="mastodon.cryptodont.io/@{{ site.mastodon }}" href="http://mastodon.cryptodont.io/@{{ site.mastodon }}" target="_blank">
+            <svg class="icon icon-mastodon"><use xlink:href="#icon-mastodon"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.matrix %}
+        <a class="link" data-title="matrix.to/#/@{{ site.mastodon }}" href="http://matrix.to/#/@{{ site.matrix }}" target="_blank">
+            <svg class="icon icon-matrix"><use xlink:href="#icon-matrix"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.telegram %}
+        <a class="link" data-title="t.me/{{ site.telegram }}" href="https://t.me/{{ site.telegram }}" target="_blank">
+            <svg class="icon icon-telegram"><use xlink:href="#icon-telegram"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.twitter %}
+        <a class="link" data-title="twitter.com/{{ site.twitter }}" href="http://twitter.com/{{ site.twitter }}" target="_blank">
+            <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.google-plus %}
+        <a class="link" data-title="plus.google.com/+{{ site.google-plus }}" href="http://plus.google.com/+{{ site.google-plus }}" target="_blank">
+            <svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.facebook %}
+        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="http://facebook.com/{{ site.facebook }}" target="_blank">
+            <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+        </a>
+    {% endif %}
+
+
+    {% if site.instagram %}
+        <a class="link" data-title="instagram.com/{{ site.instagram }}" href="http://instagram.com/{{ site.instagram }}" target="_blank">
+            <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.reddit %}
+        <a class="link" data-title="reddit.com/user/{{ site.reddit }}" href="https://www.reddit.com/user/{{ site.reddit }}" target="_blank">
+            <svg class="icon icon-reddit"><use xlink:href="#icon-reddit"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.linkedin %}
+        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">
+            <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
+        </a>
+    {% endif %}
+
+</div>
