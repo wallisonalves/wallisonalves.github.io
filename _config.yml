@@ -22,7 +22,7 @@ url: https://wallisonalves.com
 permalink: /:title/
 
 # if you don't have any of social below, comment the line
-gpg: 0xc463cfcfa61cc694
+gpg: key.asc
 tox: wallisonalvesdeoliveira
 email: wallisonalvesdeoliveira@zoho.com
 gitlab: wallisonalves
