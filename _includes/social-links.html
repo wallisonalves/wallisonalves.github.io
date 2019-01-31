@@ -1,7 +1,7 @@
 <div class="social-links">
 
     {% if site.gpg %}
-        <a class="link" data-title="pgp.key-server.io/search/{{ site.gpg }}" href="https://pgp.key-server.io/search/{{ site.gpg }}" target="_blank">
+        <a class="link" data-title="pool.sks-keyservers.net/pks/lookup?search={{ site.gpg }}" href="http://pool.sks-keyservers.net/pks/lookup?search={{ site.gpg }}" target="_blank">
             <svg class="icon icon-gpg"><use xlink:href="#icon-gpg"></use></svg>
         </a>
     {% endif %}
