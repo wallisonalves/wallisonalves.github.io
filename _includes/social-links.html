@@ -59,5 +59,28 @@
             <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.linkedin %}
+        <a class="link" data-title="linkedin.com/{{ site.linkedin }}" href="http://linkedin.com/{{ site.linkedin }}" target="_blank">
+            <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.facebook %}
+        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="http://facebook.com/{{ site.facebook }}" target="_blank">
+            <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+        </a>
+    {% endif %}
+    
+    {% if site.instagram %}
+        <a class="link" data-title="instagram.com/{{ site.instagram }}" href="http://instagram.com/{{ site.instagram }}" target="_blank">
+            <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
+        </a>
+    {% endif %}
 
+    {% if site.whatsapp %}
+        <a class="link" data-title="wa.me/{{ site.whatsapp }}" href="http://wa.me/{{ site.whatsapp }}" target="_blank">
+            <svg class="icon icon-whatsapp"><use xlink:href="#icon-whatsapp"></use></svg>
+        </a>
+    {% endif %}
 </div>

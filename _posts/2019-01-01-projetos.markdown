@@ -7,12 +7,14 @@ image: https://raw.githubusercontent.com/wallisonalves/wallisonalves.github.io/m
 headerImage: true
 projects: true
 hidden: true
-description: "Todos os meus projetos pessoais estão aqui!"
+description: "Todos os meus projetos pessoais e que ajudo estão aqui!"
 category: project
 author: wallisonalves
 externalLink: false
 ---
 
+## _BOLETOP2P_: [https://boletop2p.com](https://boletop2p.com).
 ## _VPN COM FOCO EM PRIVACIDADE_: [https://vpni2p.xyz](https://vpni2p.xyz).
-## _NÓ COMPLETO WAVES PLATFORM!_: [https://waves.one](https://waves.one).
+## _MALHA GLOBAL_: [https://malha.global](https://malha.global).
+## _CYPHERPUNKS_: [https://cypherpunks.com.br](https://cypherpunks.com.br).
 ## _UMA MOEDA DESCENTRALIZADA PARA A INTERNET_: [https://vanilla.cash](https://vanilla.cash).
