@@ -13,9 +13,10 @@ author: wallisonalves
 externalLink: false
 ---
 
-## _ANKR.INFO_: [https://ankr.info](https://ankr.info).
+## _FACIENDA_: [https://facienda.com.br](https://facienda.com.br).
+## _ANKRINFO_: [https://ankr.info](https://ankr.info).
 ## _MARKETSVIEWS_: [https://marketsviews.info](https://marketsviews.info).
 ## _BOLETOP2P_: [https://boletop2p.com](https://boletop2p.com).
 ## _VPNI2P_: [https://vpni2p.com](https://vpni2p.com).
-## _MALHA.GLOBAL_: [https://malha.global](https://malha.global).
+## _MALHAGLOBAL_: [https://malha.global](https://malha.global).
 ## _CYPHERPUNKS_: [https://cypherpunks.com.br](https://cypherpunks.com.br).
