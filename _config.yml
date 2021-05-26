@@ -1,6 +1,6 @@
 # main text of home
 name: Wallison Alves
-bio: Agropecuário apaixonado por tudo que envolve tecnologia!
+bio: Eu vivo para contemplar a vida!
 
 # twitter summary info
 description: Um blog sobre agricultura, pecuária, tecnologia e assuntos relacionados
@@ -29,7 +29,7 @@ gitlab: wallisonalves
 github: wallisonalves
 keybase: wallisonalves
 mastodon: wallisonalves
-matrix: liberdon.com
+matrix: wallisonalves
 telegram: wallisonalves
 twitter: wall_is_on
 linkedin: wall_is_on
@@ -40,7 +40,7 @@ whatsapp: 33999558597
 authors:
     wallisonalves:
         name: Wallison Alves
-        bio: Agropecuário apaixonado por tudo que envolve tecnologia!
+        bio: Eu vivo para contemplar a vida!
         external-image: false
         picture: assets/images/profile.png
 

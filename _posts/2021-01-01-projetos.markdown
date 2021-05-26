@@ -1,7 +1,7 @@
 ---
 title: "Meus Projetos e Contribuições"
 layout: post
-date: 2019-01-01 00:00
+date: 2021-01-01 00:00
 tag: projetos
 image: https://raw.githubusercontent.com/wallisonalves/wallisonalves.github.io/master/assets/images/projetos.png
 headerImage: true
@@ -16,7 +16,6 @@ externalLink: false
 ## _ANKR.INFO_: [https://ankr.info](https://ankr.info).
 ## _MARKETSVIEWS_: [https://marketsviews.info](https://marketsviews.info).
 ## _BOLETOP2P_: [https://boletop2p.com](https://boletop2p.com).
-## _VPNI2P_: [https://vpni2p.xyz](https://vpni2p.xyz).
+## _VPNI2P_: [https://vpni2p.com](https://vpni2p.com).
 ## _MALHA.GLOBAL_: [https://malha.global](https://malha.global).
 ## _CYPHERPUNKS_: [https://cypherpunks.com.br](https://cypherpunks.com.br).
-## _VCASH_: [https://vanilla.cash](https://vanilla.cash).

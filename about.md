@@ -4,10 +4,12 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Agropecuário apaixonado por tudo que envolve tecnologia!</p>
+<p>Eu vivo para contemplar a vida!</p>
 
 <h2>Habilidades</h2>
 
 <ul class="Habilidades-list">
 	<li>Agropecuário</li>
+	<li>Eletricista</li>
+	<li>Mecânico</li>
 </ul>
